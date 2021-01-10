@@ -16,6 +16,7 @@ title: "Professionals vs amateurs"
 👉 Professionals learn from disagreements. Amateurs see disagreements as threats.
 
 👉 Professionals focus on lesser things. Amateurs try to be the best at everything.
+
 👉 Professionals focus on their strengths. Amateurs try to improve their weaknesses.
 
 👉 Professionals never give up. Amateurs give up after failing.
