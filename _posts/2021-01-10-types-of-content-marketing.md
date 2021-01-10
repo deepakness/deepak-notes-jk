@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Types of high performing content marketing
+title: Types of high performing content marketing ideas
 ---
 
 1. eBooks
