@@ -1,0 +1,10 @@
+I"�<p>Yesterday, Notion was down for hours and it got me searching for available automated backup options.</p>
+
+<p>After researching a bit, I found a way and wrote an <a href="https://compile.blog/2021/01/06/automatic-notion-backup/">article</a> about it.</p>
+
+<p>It explains how to setup automatic regular backup of your entire Notion account with GitLab.</p>
+
+<p>After experimenting a bit, I was able to successfully set up the automation.</p>
+
+<p>And, it’s working perfectly. 😍</p>
+:ET
