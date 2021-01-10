@@ -8,4 +8,5 @@ end
 gem 'html-proofer'
 gem 'tzinfo'
 gem 'tzinfo-data'
+# github pages
 gem 'github-pages', group: :jekyll_plugins
