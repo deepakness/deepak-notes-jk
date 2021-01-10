@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Deepak's "
 title_right   : "Notes" # default: ""
-description   : "Personal notes on blogging, marketing, business, technology and more."
+description   : "Raw notes on blogging, marketing, business, technology and more."
 keywords      : "deepakness, blogging, marketing, business, technology"
 url           : https://notes.deepakness.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
@@ -11,7 +11,7 @@ google_analytics  : UA-XXXXX-XX
 twitter_username  : "DeepakNesss"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
-postshare_enabled : false
+postshare_enabled : true
 
 # Build settings
 permalink   : /:title/
