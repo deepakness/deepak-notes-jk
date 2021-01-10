@@ -47,3 +47,65 @@ We feel the negative effects of loss more strongly than we feel the positive eff
 
 We change how we behave to be more like others.
 
+- key influencers and industry leaders can help your product appear more valuable to others
+- invite-only networks get the boost of this effect too
+
+## Acquiescence effect
+
+We give answers based not just on a rational consideration of what is being asked but also in consideration of how we will appear to others.
+
+- be aware of the leading questions you may be asking in customer development calls, surveys, or questionnaires
+
+- people can be easily swayed to answer in a certain way if the question seems tilted in a certain direction
+
+## Mere exposure theory
+
+The more we’re exposed to something, the more we like it.
+
+- repeat your message
+- repost
+
+## Informational social influence
+
+When we do not know how to behave, we copy other people.
+
+- use the experience of others to help people see the benefits of your product or company
+- leverage social proof
+
+## The decoy effect
+
+Consumers tend to change their preference between two options when a third, less attractive option is presented.
+
+- use this effect with your pricing strategy + when you're comparing different options
+- inclusion of an option that is “asymmetrically dominated” (a plan that seems out of whack or a feature list that doesn’t quite add up) will make the other options more appealing
+
+## Availability heuristic
+
+When evaluating a specific topic, concept, method or decision, we favor options that bring to mind immediate examples.
+
+- make your product easy to grasp
+- provide examples of actions you want users to take
+
+## Buffer effect of social support
+
+People who feel supported by others feel less stress. If you know your friends will support you and there is someone with whom you can talk things through, somehow stressful situations are more tolerable.
+
+- be available to your customers
+- constant support - email, blogging, in-app messages, etc.
+- it help people feel more comfortable and less stressed
+
+## Ben Franklin effect
+
+When we do a person a favour, we like the more.
+
+- we believe that we did a favour because we liked the person
+- ask for favours from your customers/users - surveys, resharing, ask their opinions etc.
+
+## Propinquity effect
+
+The more we meet and interact with people, the more likely we are to become friends with them.
+
+- be a present on social media constantly
+- always communicate through emails and other means
+
+[Source](https://buffer.com/resources/psychological-studies-marketing/)
