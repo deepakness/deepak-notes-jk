@@ -3,7 +3,7 @@ title_left    : "Deepak's "
 title_right   : "Notes" # default: ""
 description   : "Personal notes on blogging, marketing, business, technology and more."
 keywords      : "deepakness, blogging, marketing, business, technology"
-url           : https://deepakness.github.io/deepak-notes-jk # site url
+url           : https://deepakness.github.io # site url
 baseurl       : "/deepak-notes-jk" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
