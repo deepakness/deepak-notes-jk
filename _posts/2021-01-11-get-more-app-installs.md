@@ -28,8 +28,8 @@ title: How to get more app installs
 - create a contest or giveaway to get the maximum exposure
 - have a retargetting campaign running on the platforms like FB, Instagram, Quora, etc.
 - implement an amazing referral program and offer nice rewards on referrals
-- try to get more and more media coverage for the app [example](https://appradar.com/wp-content/uploads/Adobe-Press-Release-724x1024.jpg)
-- ASO (App Store Optimization) plays an important role in the app's success [infographic](https://appradar.com/wp-content/uploads/ASO-Ranking-Factors-1024x553.jpg)
+- try to get more and more media coverage for the app ([example](https://appradar.com/wp-content/uploads/Adobe-Press-Release-724x1024.jpg))
+- ASO (App Store Optimization) plays an important role in the app's success ([infographic](https://appradar.com/wp-content/uploads/ASO-Ranking-Factors-1024x553.jpg))
     - use lesser targetted low competition keywords
     - optimize your app page - better icons & screenshots
     - A/B test screenshots and other things
