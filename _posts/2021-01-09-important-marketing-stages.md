@@ -51,7 +51,7 @@ keywords: "marketing"
 7. **Advocating**
 
     - earned media is the best kind of media
-    - imagine people publishing good stories with you ever asking them
+    - imagine people publishing good stories without you ever asking them
     - imagine people buying your product as gift to others
     - imagine people recommending your product to their friends without any rewards in returns
 
