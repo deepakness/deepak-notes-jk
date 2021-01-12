@@ -55,7 +55,7 @@ The best thing about Snapchat app install ads is their [Deeplink attachment](htt
 - 249 million people use Snapchat every day
 - 40%+ of Snapchatters say they typically download 1–5 apps per week
 
-> However, Snapchat is not that popular in India. But... again that can be a plus point for us to reach to more targetted users. Or, may be it provides more returns.
+> However, Snapchat is not that popular in India. But... again, that can be a plus point for us to reach to more targetted users. Or, may be it provides more returns.
 
 ### Google Ads
 
