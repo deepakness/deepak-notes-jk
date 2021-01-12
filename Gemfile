@@ -8,4 +8,6 @@ end
 gem 'html-proofer'
 gem 'tzinfo'
 gem 'tzinfo-data'
-# github pages
+
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
