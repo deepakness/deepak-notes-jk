@@ -34,7 +34,7 @@ title: How to get more app installs
     - optimize your app page - better icons & screenshots
     - A/B test screenshots and other things
     - plus, other ASO techniques
-- run Ads using Google AdWords [Source](https://neilpatel.com/blog/how-to-drive-app-installs-using-google-adwords/)
+- run Ads using Google AdWords ([Source](https://neilpatel.com/blog/how-to-drive-app-installs-using-google-adwords/))
 - reach to a wider audience through app localization - launching your app in other local languages
 
 
