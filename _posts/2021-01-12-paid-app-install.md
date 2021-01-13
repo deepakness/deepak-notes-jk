@@ -21,7 +21,7 @@ Playable video ads convert the best because they provide the actucal look and fe
 
 ### Twitter
 
-Twitter app install ads are shown as an "app card" either in the video or image format directly in the user's home feed
+Twitter app install ads are shown as "app card" either in the video or image format directly in the user's home feed
 
 **Best for:**
 
