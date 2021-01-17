@@ -48,3 +48,13 @@ As simple as that.
 [Source](https://potatoparcel.com/)
 
 Images: [1](https://cdn.shopify.com/s/files/1/1017/2183/products/potato-parcel-riad-bekhit-7797191704661_540x.jpg), [2](https://i.imgur.com/nqf7UV8.jpeg)
+
+### #WeirdBusinessesSeries #4
+
+$100,000 for Sending Sh*t to Your Hated Ones!!!
+
+A company named ShitExpress has generated over $100,000 in revenue in 3 years by sending sh*t to the people who annoy you the most. It sends animal sh*t of your choice to the provided address, anonymously.
+
+
+
+[Source](https://www.shitexpress.com/)
