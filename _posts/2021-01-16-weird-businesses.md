@@ -55,6 +55,8 @@ $100,000 for Sending Sh*t to Your Hated Ones!!!
 
 A company named ShitExpress has generated over $100,000 in revenue in 3 years by sending sh*t to the people who annoy you the most. It sends animal sh*t of your choice to the provided address, anonymously.
 
+You just have to buy the required service from them, provide your enemy's address and they will deliver in a discrete box without your name on it.
 
+Not sure how this satisfies people, but people are doing it. 😁
 
 [Source](https://www.shitexpress.com/)
