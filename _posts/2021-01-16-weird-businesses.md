@@ -60,3 +60,17 @@ You just have to buy the required service from them, provide your enemy's addres
 Not sure how this satisfies people, but people are doing it. 😁
 
 [Source](https://www.shitexpress.com/)
+
+### #WeirdBusinessesSeries #5
+
+$500 for renting a Chicken!!!
+
+"Rent a Coop" offers a service which lets you rent chickens for up to 12 weeks in a cost of $500. They provide all the necessary equipments and resources for feeding and taking care of the chickens.
+
+You can visit their website and order a suitable offer; they will provide you with all the necessary details. And, you and your family can spend the next couple of weeks watching your chickens grow.
+
+Like, who would have thought that people would go crazy for renting chickens!
+
+People are awesome! 😄
+
+
