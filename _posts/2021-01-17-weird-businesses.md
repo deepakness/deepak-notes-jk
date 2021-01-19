@@ -74,3 +74,6 @@ Like, who would have thought that people would go crazy for renting chickens!
 People are awesome! 😄
 
 
+---
+
+Sources: [1](https://www.producthunt.com/golden-kitty-awards-2020/wtf), [2](https://ebizfacts.com/weird-creative-ways-to-make-money-online/)
