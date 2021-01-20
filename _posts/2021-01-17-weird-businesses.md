@@ -73,6 +73,16 @@ Like, who would have thought that people would go crazy for renting chickens!
 
 People are awesome! 😄
 
+### #WeirdBusinessesSeries #6
+
+$150 to Remove Lice from your Hair!!!
+
+A US company called "The Lice Place" offers various kinds of lice removal services. It charges up to $150 per head for complete removal.
+
+You have to book the service and visit at the nearest service center. As advertised, they use 100% natural methods.
+
+It seems head lice is a serious problem out there. 😀
+
 
 ---
 
