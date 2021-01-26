@@ -18,7 +18,7 @@ Create #NextLevel contents on almost every possible questions/queries that your 
 - How, what, why of x
 - x annual survey
 
-And, some tips for out-of-the-box marketing:
+**And, some tips for out-of-the-box marketing:**
 
 - Using buzzwords
 - Using language not usually associated with business
