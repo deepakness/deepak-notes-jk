@@ -5,7 +5,7 @@ title: Tech unicorns' Content Marketing strategies
 
 Create #NextLevel contents on almost every possible questions/queries that your users might have.
 
-Most of the tech unicorns offer contents with the followings titles:
+**Most of the tech unicorns offer contents with the followings titles:**
 
 - The complete playbook to x
 - The big book of x
