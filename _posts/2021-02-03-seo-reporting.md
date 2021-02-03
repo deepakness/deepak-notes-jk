@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Know about SEO Reporting
+title: SEO Reporting 📃
 ---
 
 Most of the clients ask for monthly SEO reports, and it's really not that difficult.
