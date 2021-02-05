@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The new internet
+title: The New Internet
 ---
 
 According to Seth Godin;
