@@ -7,7 +7,7 @@ title: Marketing definition
 
 > Marketing is the activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.
 
-**According to [Wikipedia](https://en.wikipedia.org/wiki/Marketing):**
+**According to [Wikipedia](https://en.wikipedia.org/wiki/Marketing);**
 
 > Marketing refers to activities a company undertakes to promote the buying or selling of a product, service, or good.
 
