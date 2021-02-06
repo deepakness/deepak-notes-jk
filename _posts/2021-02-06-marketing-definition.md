@@ -19,3 +19,6 @@ title: Marketing definition
 
 > Marketing, the sum of activities involved in directing the flow of goods and services from producers to consumers.
 
+**According to [Dictionary.com](https://www.dictionary.com/browse/marketing);**
+
+> The action or business of promoting and selling products or services, including market research and advertising.
