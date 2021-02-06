@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A beginner? Quickly setup a WordPress Test instance for free
+title: WordPress Test instance quick setup [free]
 ---
 
 If you're a beginner or looking to test various themes and plugins before you put it on the live website; [https://tastewp.com/](https://tastewp.com/) is for you.
