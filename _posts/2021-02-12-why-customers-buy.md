@@ -30,7 +30,7 @@ You do not build better cameras, you build better photographers.
 	- And, in the alarm clock case, what exactly is the **job-to-be-done**?
 		- Forcing the user to get out of the bed earlier in the morning.
 
-- How to know this job-to-be-done?
+- How to know this **job-to-be-done**?
 	- There are many functional and emotional dimension to consider.
 	- A deep understanding of the jobs your customers are trying to get done gives you a clearer picture of what really drives purchasing decisions.
 	- Here's how to know:
