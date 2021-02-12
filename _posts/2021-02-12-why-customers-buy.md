@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why do Customers Really Buy
+title: Why do Customers Really Buy?
 ---
 
 - We're drowning in customers' data but it doesn't tell us why do people buy
