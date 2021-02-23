@@ -13,7 +13,7 @@ Use the classic story model:
 - The villain → Their problem
 - Setup → Conflict → Resolution
 
-Your story? Helping the hero slay the villain.
+> Your story? Helping the hero slay the villain.
 
 - **Keep it short and concise**
 
