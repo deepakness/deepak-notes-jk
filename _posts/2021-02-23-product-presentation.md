@@ -45,3 +45,5 @@ Point out any fear, uncertainty, and doubt.
 Address them in the presentation.
 
 You’ll win the audience over.
+
+[Source](https://theproductperson.substack.com/p/the-product-person-42)
