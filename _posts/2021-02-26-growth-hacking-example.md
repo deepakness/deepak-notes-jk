@@ -13,4 +13,4 @@ The logic hiding behind this sheer act of madness is that, sure, you may get the
 Over the course of one week, Casey earned himself over one hundred thousand dollars. In three weeks, with seventy videos in the top one hundred, Casey brough in one and a half MILLION. At the time of writing, he’s comfortably cruising towards three million dollars in Spotlight payments.
 
 
-Source: [Cam Casey: Earning Millions Through Snapchat’s ‘TikTok’](https://replayed.co/posts/cam-casey-earning-millions-through-snapchat-s-tiktok)
+Stolen from: [Cam Casey: Earning Millions Through Snapchat’s ‘TikTok’](https://replayed.co/posts/cam-casey-earning-millions-through-snapchat-s-tiktok)
