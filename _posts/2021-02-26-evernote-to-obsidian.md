@@ -7,4 +7,4 @@ If you want to move your notes from Evernote to Obsidian, there's a quick way to
 
 The process uses a Node.js script to convert.
 
-Follow the tutorial: [Convert Evernote’s .enex to .md Format](https://compile.blog/2021/02/25/evernote-enex-to-md/)
+Follow the tutorial: **[Convert Evernote’s .enex to .md Format](https://compile.blog/2021/02/25/evernote-enex-to-md/)**
