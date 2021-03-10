@@ -11,3 +11,10 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Psychokinesis):
 
 > In parapsychology, fictional universes and New Age beliefs, psychokinesis and telekinesis are different: **psychokinesis** refers to the mental influence of physical systems and objects without the use of any physical energy, while **telekinesis** refers to the movement and/or levitation of physical objects by purely mental force without any physical intervention.
 
+---
+
+You might have seen the 'Carrie' movie prank a few years ago on YouTube. It was based on Telekinesis and went kind of viral.
+
+Here's a screenshot of that:
+
+![Carrie Movie Prank](https://digitalsynopsis.com/wp-content/uploads/2013/12/carrie-telekinetic-coffee-shop-prank.jpg)
